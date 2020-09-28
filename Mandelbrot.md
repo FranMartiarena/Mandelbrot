@@ -1,9 +1,9 @@
 ## Mandelbrot con python
 
 
-El fractal de Mndelbrot es un conjunto de numeros reales c, para que que al iterar la funcion:
+El fractal de Mandelbrot es un conjunto de numeros reales c, para el que, al iterar la funcion
 
-- <img src="https://latex.codecogs.com/gif.latex?f(z)=z^2+c" /> 
+<img src="https://latex.codecogs.com/gif.latex?f(z)=z^2+c" /> 
 
 c no escapa al infinito de forma repentina.
 
@@ -19,10 +19,10 @@ Para el conjunto de Mandelbrot, se empieza teniendo en cuenta que: - <img src="h
 
 Por consiguiente:
 
-- <img src="https://latex.codecogs.com/gif.latex?z_1=f(z_0)=z_0^2+(-1)=0^2+(-1)=-1" /> <br />
-- <img src="https://latex.codecogs.com/gif.latex?z_2=f(z_1)=z_1^2+(-1)=(-1)^2+(-1)=0" /> <br />
-- <img src="https://latex.codecogs.com/gif.latex?z_3=f(z_2)=z_2^2+(-1)=0^2+(-1)=-1" /> <br />
-#### <pre>                    ... </pre>
+<img src="https://latex.codecogs.com/gif.latex?z_1=f(z_0)=z_0^2+(-1)=0^2+(-1)=-1" /> <br />
+<img src="https://latex.codecogs.com/gif.latex?z_2=f(z_1)=z_1^2+(-1)=(-1)^2+(-1)=0" /> <br />
+<img src="https://latex.codecogs.com/gif.latex?z_3=f(z_2)=z_2^2+(-1)=0^2+(-1)=-1" /> <br />
+### ...
 
 Hasta este punto, ya sabemos que para cada valor de c, tendremos 2 posibilidades, que forme parte del conjunto(que no escape al infinito), o que no forme parte(que escape al infinito). Ademas se sabe que cuando c forma parte del conjunto de mandelbrot, el valor absoluto de Zn(Es decir su distancia desde el origen) no supera el valor de 2.
 
