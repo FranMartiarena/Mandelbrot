@@ -15,7 +15,7 @@ Si c = 1, la ecuacion va a retornar la siguiente sucesion de numeros --> 0, 1, 2
 
 Por otro lado, si c = -1, entonces la sucesion retornara --> 0, –1, 0, –1, …formando c parte del conjunto mandelbrot.
 
-Para el conjunto de Mandelbrot, se empieza teniendo en cuenta que: - <img src="https://latex.codecogs.com/gif.latex?z_0=0" /> 
+Para el conjunto de Mandelbrot, se empieza teniendo en cuenta que: <img src="https://latex.codecogs.com/gif.latex?z_0=0" /> 
 
 Por consiguiente:
 
