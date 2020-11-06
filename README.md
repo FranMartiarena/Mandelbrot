@@ -1,7 +1,7 @@
 ## Mandelbrot con python
 
 
-El conjunto de Mandelbrot es un conjunto de numeros reales c, para el que, al iterar la funcion
+El conjunto de Mandelbrot es un conjunto de numeros complejos c, para el que, al iterar la funcion
 
 <img src="https://latex.codecogs.com/gif.latex?f(z)=z^2+c" /> 
 
